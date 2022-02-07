@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <title>FICHE AGENT</title>
   </head>
-  <body style="background-color:#40E0D0	;">
+  <body style="background-color:#379EC1;">
   <br/>
     <div>
         <div>
-            <span style="border: 3px solid black; padding: 10px;">IDENTIFICATION</span>
+            <span style="border: 3px solid black; padding: 10px;">Identification</span>
         </div>
         <div align="right">
             <img src="img/img.jpeg" width="450" height="300"> 
